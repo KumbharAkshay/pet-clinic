@@ -1,2 +1,2 @@
 # pet-clinic
-Simulating Pet-Clinic
+Simulating Pet-Clinic using Spring and Spring Boot
